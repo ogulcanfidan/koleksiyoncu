@@ -66,7 +66,6 @@
   "ui.questsRefresh": "Nouvelles missions dans {h} h {m} min",
   "ui.questClaimed": "Récompense obtenue :",
   "ui.questBonus": "Termine les trois missions",
-  "ui.adInterstitialLabel": "Publicité",
   "ui.mockBuyTitle": "Achat test",
   "ui.mockBuyNote": "Ceci est une version de test. Aucun paiement réel n'est effectué ; l'achat est seulement simulé pour que tu puisses l'essayer.",
   "ui.mockBuyConfirm": "Acheter (test)",

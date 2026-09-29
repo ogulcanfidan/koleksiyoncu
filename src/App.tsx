@@ -5,7 +5,6 @@ import {
   AchievementsScreen, LeaderboardScreen, LegalScreen, MockPurchaseOverlay, SettingsScreen, StatsScreen, Toasts,
   WebAdOverlay, Screen, announceAchievement, toast,
 } from "@shared/src/ui";
-import { maybeShowInterstitial } from "@shared/src/ads";
 import { initPlayGames } from "@shared/src/leaderboard";
 import { initStore, restorePurchases } from "@shared/src/store";
 import { privacyText, termsText } from "@shared/src/legal";
@@ -60,12 +59,6 @@ export function App() {
   const appName = t("app.name");
   const correct = progress.stat("correct"), wrong = progress.stat("wrong");
 
-  // Gün sonu raporundan çıkarken, ilk 3 günden sonra ve iki günde bir, sınırlı geçiş reklamı.
-  const afterReport = (s: DaySummary) => {
-    home();
-    if (!s.tutorial && s.dayNo >= 3 && s.dayNo % 2 === 0) void maybeShowInterstitial();
-  };
-
   if (!g.introSeen && !g.tutorialDone) {
     return (
       <div className="app-root">
@@ -77,7 +70,7 @@ export function App() {
   let body;
   switch (route.name) {
     case "play": body = <PlayScreen onExit={home} onDayEnd={summary => setRoute({ name: "report", summary })} />; break;
-    case "report": body = <ReportScreen summary={route.summary} onDone={() => afterReport(route.summary)} />; break;
+    case "report": body = <ReportScreen summary={route.summary} onDone={home} />; break;
     case "shop": body = <ShopScreen onBack={home} />; break;
     case "collection": body = <CollectionScreen onBack={home} />; break;
     case "catalog": body = <Screen title={t("cat.title")} onBack={home}><CatalogView owned={g.cats} tier={rank()} stamps={Object.keys(g.collection)} /></Screen>; break;

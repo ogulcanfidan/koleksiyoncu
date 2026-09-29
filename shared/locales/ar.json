@@ -66,7 +66,6 @@
   "ui.questsRefresh": "مهام جديدة بعد {h} س {m} د",
   "ui.questClaimed": "حصلت على المكافأة:",
   "ui.questBonus": "أكمل المهام الثلاث",
-  "ui.adInterstitialLabel": "إعلان",
   "ui.mockBuyTitle": "شراء تجريبي",
   "ui.mockBuyNote": "هذه نسخة تجريبية. لن يُخصم أي مبلغ حقيقي؛ عملية الشراء محاكاة فقط لتجربتها.",
   "ui.mockBuyConfirm": "شراء (تجريبي)",

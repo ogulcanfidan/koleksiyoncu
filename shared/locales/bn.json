@@ -66,7 +66,6 @@
   "ui.questsRefresh": "{h} ঘণ্টা {m} মিনিট পরে নতুন কাজ",
   "ui.questClaimed": "পুরস্কার পেয়েছেন:",
   "ui.questBonus": "তিনটি কাজই শেষ করুন",
-  "ui.adInterstitialLabel": "বিজ্ঞাপন",
   "ui.mockBuyTitle": "পরীক্ষামূলক কেনাকাটা",
   "ui.mockBuyNote": "এটি একটি পরীক্ষামূলক সংস্করণ। কোনো আসল টাকা কাটা হবে না; কেনাকাটাটি শুধু চেষ্টা করে দেখার জন্য।",
   "ui.mockBuyConfirm": "কিনুন (পরীক্ষা)",

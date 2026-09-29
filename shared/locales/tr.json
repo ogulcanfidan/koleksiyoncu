@@ -66,7 +66,6 @@
   "ui.questsRefresh": "{h} sa {m} dk sonra yenilenir",
   "ui.questClaimed": "Ödül alındı:",
   "ui.questBonus": "Üç görevi de tamamla",
-  "ui.adInterstitialLabel": "Reklam",
   "ui.mockBuyTitle": "Test satın alması",
   "ui.mockBuyNote": "Bu bir test derlemesi. Gerçek ödeme alınmaz; satın alma yalnızca denemek için taklit edilir.",
   "ui.mockBuyConfirm": "Satın al (test)",

@@ -16,7 +16,7 @@ ${app}, hesap açmanı istemez ve adını, e-postanı ya da konumunu toplamaz. O
 Oyun ilerlemesi, istatistikler, başarımlar, ayarlar (dil, ses, bildirim tercihi). Bu veriler bize gönderilmez. Uygulamayı silersen ya da ayarlardan "İlerlemeyi sıfırla"yı seçersen silinir.
 
 ## Reklamlar (Google AdMob)
-İsteğe bağlı ödüllü reklamlar ve gün sonlarında seyrek geçiş reklamları Google AdMob ile gösterilir. AdMob, reklam göstermek ve ölçmek için cihazının reklam kimliğini, IP adresini ve kaba konum bilgisini kullanabilir. Avrupa Ekonomik Alanı ve Birleşik Krallık'taki kullanıcılardan bunun için onay istenir; tercihini Ayarlar > Reklam gizlilik seçenekleri bölümünden değiştirebilirsin. Ayrıntılar: https://policies.google.com/technologies/ads
+Yalnızca sen istediğinde izlediğin, isteğe bağlı ödüllü reklamlar Google AdMob ile gösterilir; oyunda başka reklam yoktur. AdMob, reklam göstermek ve ölçmek için cihazının reklam kimliğini, IP adresini ve kaba konum bilgisini kullanabilir. Avrupa Ekonomik Alanı ve Birleşik Krallık'taki kullanıcılardan bunun için onay istenir; tercihini Ayarlar > Reklam gizlilik seçenekleri bölümünden değiştirebilirsin. Ayrıntılar: https://policies.google.com/technologies/ads
 
 ## Uygulama içi satın almalar
 Satın almalar Google Play (ya da App Store) üzerinden yapılır; ödeme bilgilerin bize ulaşmaz. Uygulama yalnızca hangi ürünü satın aldığını (ör. reklamsız paket) doğrulamak için mağazadan bilgi alır.
@@ -42,7 +42,7 @@ ${app} does not ask you to create an account and does not collect your name, ema
 Game progress, statistics, achievements and settings (language, sound, notification preference). This data is not sent to us. It is deleted when you uninstall the app or choose "Reset progress" in Settings.
 
 ## Ads (Google AdMob)
-Optional rewarded ads and occasional end-of-day interstitial ads are served by Google AdMob. AdMob may use your device's advertising ID, IP address and approximate location to show and measure ads. Users in the European Economic Area and the UK are asked for consent; you can change your choice in Settings > Ad privacy options. Details: https://policies.google.com/technologies/ads
+Only optional rewarded ads, which you choose to watch, are served by Google AdMob; the game shows no other ads. AdMob may use your device's advertising ID, IP address and approximate location to show and measure ads. Users in the European Economic Area and the UK are asked for consent; you can change your choice in Settings > Ad privacy options. Details: https://policies.google.com/technologies/ads
 
 ## In-app purchases
 Purchases are processed by Google Play (or the App Store); your payment details never reach us. The app only asks the store which products you own (e.g. the ad-free pack) to unlock them.

@@ -66,7 +66,6 @@
   "ui.questsRefresh": "{h}小时{m}分钟后刷新",
   "ui.questClaimed": "已领取奖励：",
   "ui.questBonus": "完成全部三个任务",
-  "ui.adInterstitialLabel": "广告",
   "ui.mockBuyTitle": "测试购买",
   "ui.mockBuyNote": "这是测试版本，不会产生真实付款，购买仅为模拟，方便你体验。",
   "ui.mockBuyConfirm": "购买（测试）",

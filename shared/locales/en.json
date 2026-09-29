@@ -66,7 +66,6 @@
   "ui.questsRefresh": "New tasks in {h}h {m}m",
   "ui.questClaimed": "Reward claimed:",
   "ui.questBonus": "Complete all three tasks",
-  "ui.adInterstitialLabel": "Advertisement",
   "ui.mockBuyTitle": "Test purchase",
   "ui.mockBuyNote": "This is a test build. No real payment is taken; the purchase is only simulated so you can try it.",
   "ui.mockBuyConfirm": "Buy (test)",

@@ -1,7 +1,7 @@
-// Reklam servisi: ödüllü reklam + seyrek geçiş reklamı.
+// Reklam servisi: yalnızca isteğe bağlı ödüllü reklam (geçiş reklamı yok).
 // Telefonda AdMob kullanır (yayın derlemesinde gerçek, test derlemesinde Google test reklamları).
 // Tarayıcıda gerçek reklam olmadığı için kısa bir taklit gösterilir.
-// "Reklamsız" paketi alınmışsa: geçiş reklamı hiç çıkmaz, ödüllü reklamın ödülü reklamsız verilir.
+// "Reklamsız" paketi alınmışsa ödüllü reklamın ödülü reklam izlemeden verilir.
 import { Capacitor } from "@capacitor/core";
 import { load, save } from "./storage";
 
@@ -10,20 +10,20 @@ import { load, save } from "./storage";
 const TESTING = import.meta.env.VITE_STORE_MOCK === "1" || !Capacitor.isNativePlatform();
 const REAL = {
   // AdMob: "The Collector: Real or Fake" (ca-app-pub-2569162850712494~2912269569)
-  android: { rewarded: "ca-app-pub-2569162850712494/8715085570", interstitial: "ca-app-pub-2569162850712494/3407093586" },
-  ios: { rewarded: "", interstitial: "" }, // iOS uygulaması AdMob'a eklenince doldurulacak
+  android: { rewarded: "ca-app-pub-2569162850712494/8715085570" },
+  ios: { rewarded: "" }, // iOS uygulaması AdMob'a eklenince doldurulacak
 };
 const TEST = {
-  android: { rewarded: "ca-app-pub-3940256099942544/5224354917", interstitial: "ca-app-pub-3940256099942544/1033173712" },
-  ios: { rewarded: "ca-app-pub-3940256099942544/1712485313", interstitial: "ca-app-pub-3940256099942544/4411468910" },
+  android: { rewarded: "ca-app-pub-3940256099942544/5224354917" },
+  ios: { rewarded: "ca-app-pub-3940256099942544/1712485313" },
 };
 const IDS = TESTING ? TEST : REAL;
 
-type WebAdHandler = (kind: "rewarded" | "interstitial") => Promise<boolean>;
+type WebAdHandler = (kind: "rewarded") => Promise<boolean>;
 let webHandler: WebAdHandler | null = null;
 let initialized = false;
 
-const pref = load<{ adFree: boolean; lastInterstitial: number }>("ads-state", { adFree: false, lastInterstitial: 0 });
+const pref = load<{ adFree: boolean }>("ads-state", { adFree: false });
 
 /** Tarayıcı modunda reklam taklidini gösterecek bileşen kendini buraya kaydeder. */
 export function registerWebAdHandler(h: WebAdHandler) { webHandler = h; }
@@ -74,23 +74,6 @@ export async function showRewardedAd(): Promise<RewardedResult> {
     console.warn("Reklam gösterilemedi", e);
     return isNoFill(e) ? "noFill" : "failed";
   }
-}
-
-/**
- * Geçiş reklamı: yalnızca doğal molalarda (gün sonu gibi) çağrılır.
- * minGapMinutes içinde ikinci kez gösterilmez; reklamsız pakette hiç gösterilmez.
- */
-export async function maybeShowInterstitial(minGapMinutes = 4): Promise<void> {
-  if (pref.adFree) return;
-  if (Date.now() - pref.lastInterstitial < minGapMinutes * 60_000) return;
-  pref.lastInterstitial = Date.now(); save("ads-state", pref);
-  if (!Capacitor.isNativePlatform()) { if (webHandler) await webHandler("interstitial"); return; }
-  try {
-    await initNative();
-    const { AdMob } = await import("@capacitor-community/admob");
-    await AdMob.prepareInterstitial({ adId: ids().interstitial, isTesting: TESTING });
-    await AdMob.showInterstitial();
-  } catch (e) { console.warn("Geçiş reklamı gösterilemedi", e); }
 }
 
 export async function openAdPrivacyOptions() {

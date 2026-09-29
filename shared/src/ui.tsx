@@ -108,9 +108,9 @@ export function Screen({ title, onBack, children, right }: { title: string; onBa
 
 // ---------- Reklam taklidi (tarayıcıda) ----------
 export function WebAdOverlay() {
-  const [state, setState] = useState<{ resolve: (b: boolean) => void; left: number; kind: "rewarded" | "interstitial" } | null>(null);
+  const [state, setState] = useState<{ resolve: (b: boolean) => void; left: number } | null>(null);
   useEffect(() => {
-    registerWebAdHandler(kind => new Promise<boolean>(resolve => setState({ resolve, left: kind === "rewarded" ? 5 : 3, kind })));
+    registerWebAdHandler(() => new Promise<boolean>(resolve => setState({ resolve, left: 5 })));
   }, []);
   useEffect(() => {
     if (!state || state.left <= 0) return;
@@ -119,17 +119,16 @@ export function WebAdOverlay() {
   }, [state]);
   if (!state) return null;
   const done = state.left <= 0;
-  const rewarded = state.kind === "rewarded";
   return (
     <div className="ad-overlay">
       <div className="ad-box">
-        <div className="ad-label">{rewarded ? t("ui.adTestLabel") : t("ui.adInterstitialLabel")}</div>
-        <div className="ad-art">{rewarded ? "📺" : "🪧"}</div>
+        <div className="ad-label">{t("ui.adTestLabel")}</div>
+        <div className="ad-art">📺</div>
         <p>{done ? t("ui.adDone") : t("ui.adWatching", { n: state.left })}</p>
         <div className="row">
           {done
-            ? <button className="btn primary" onClick={() => { state.resolve(true); setState(null); }}>{rewarded ? t("ui.adClaim") : t("ui.close")}</button>
-            : rewarded && <button className="btn ghost" onClick={() => { state.resolve(false); setState(null); }}>{t("ui.adSkip")}</button>}
+            ? <button className="btn primary" onClick={() => { state.resolve(true); setState(null); }}>{t("ui.adClaim")}</button>
+            : <button className="btn ghost" onClick={() => { state.resolve(false); setState(null); }}>{t("ui.adSkip")}</button>}
         </div>
       </div>
     </div>

@@ -66,7 +66,6 @@
   "ui.questsRefresh": "{h} घंटे {m} मिनट में नए काम",
   "ui.questClaimed": "इनाम मिला:",
   "ui.questBonus": "तीनों काम पूरे करें",
-  "ui.adInterstitialLabel": "विज्ञापन",
   "ui.mockBuyTitle": "टेस्ट ख़रीदारी",
   "ui.mockBuyNote": "यह टेस्ट संस्करण है। कोई असली भुगतान नहीं लिया जाता; ख़रीदारी सिर्फ़ आज़माने के लिए दिखाई जाती है।",
   "ui.mockBuyConfirm": "ख़रीदें (टेस्ट)",

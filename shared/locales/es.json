@@ -66,7 +66,6 @@
   "ui.questsRefresh": "Nuevas tareas en {h} h {m} min",
   "ui.questClaimed": "Recompensa obtenida:",
   "ui.questBonus": "Completa las tres tareas",
-  "ui.adInterstitialLabel": "Anuncio",
   "ui.mockBuyTitle": "Compra de prueba",
   "ui.mockBuyNote": "Esta es una versión de prueba. No se cobra nada; la compra solo se simula para que puedas probarla.",
   "ui.mockBuyConfirm": "Comprar (prueba)",
