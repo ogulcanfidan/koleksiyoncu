@@ -1,0 +1,12 @@
+{
+  "name": "@fmjapps/capacitor-play-games",
+  "version": "1.0.0",
+  "description": "Google Play Oyun Hizmetleri (v2) için küçük Capacitor köprüsü: giriş, skor tablosu, başarımlar.",
+  "private": true,
+  "license": "UNLICENSED",
+  "files": ["android/src", "android/build.gradle"],
+  "capacitor": {
+    "android": { "src": "android" }
+  },
+  "peerDependencies": { "@capacitor/core": ">=8" }
+}

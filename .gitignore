@@ -1,0 +1,27 @@
+node_modules/
+dist/
+*.log
+
+# Android projesi `npx cap add android` ile üretilir, kalıcı ayarlar scripts/android-post.cjs'te
+/android/
+plugins/*/android/build/
+plugins/*/android/.gradle/
+
+# İmza anahtarı ve yayın paketleri — asla depoya girmemeli, ayrıca yedeklenmeli
+release/
+*.jks
+*.keystore
+keystore.properties
+*.apk
+*.aab
+
+# Yerel ortam ve editör dosyaları
+.env.local
+.env.*.local
+local.properties
+.idea/
+.vscode/
+
+# Eski deneme ve üretilmiş dosyalar
+gunun-vakasi/
+docs/privacy.html
