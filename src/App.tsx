@@ -23,7 +23,7 @@ import {
 
 type Route = { name: "home" } | { name: "play" } | { name: "report"; summary: DaySummary } | { name: Nav } | { name: "privacy" } | { name: "terms" };
 
-const VERSION = "1.0.1";
+const VERSION = "1.0.2";
 
 // Google Play Oyun Hizmetleri (proje 713398800109). iOS Game Center eklenince ios alanları doldurulacak.
 const LEADERBOARD = { android: "CgkI7Z2Hz-EUEAIQAQ", ios: "" };

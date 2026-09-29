@@ -4,7 +4,7 @@ import type { Lang } from "./i18n";
 
 // Gizlilik politikasında ve mağazada herkese açık görünen iletişim adresi.
 const CONTACT = "ogulcanfidannn@gmail.com";
-const UPDATED = "29.09.2026";
+const UPDATED = "30.09.2026";
 
 export function privacyText(app: string, lang: Lang): string {
   if (lang === "tr") return `Son güncelleme: ${UPDATED}
@@ -22,7 +22,7 @@ Yalnızca sen istediğinde izlediğin, isteğe bağlı ödüllü reklamlar Googl
 Satın almalar Google Play (ya da App Store) üzerinden yapılır; ödeme bilgilerin bize ulaşmaz. Uygulama yalnızca hangi ürünü satın aldığını (ör. reklamsız paket) doğrulamak için mağazadan bilgi alır.
 
 ## Google Play Games
-Sıralamaya katılırsan puanın ve Play Games oyuncu adın Google'a gönderilir ve diğer oyuncular tarafından görülebilir. Bu, Google'ın gizlilik politikasına tabidir.
+Genel sıralama ve başarımlar için Google Play Games kullanılır. Telefonunda Play Games'e giriş yapmışsan oyun açılışta otomatik bağlanır; sıralama puanın ve açtığın başarımlar Google'a gönderilir. Puanın, Play Games profil adın ve avatarınla sıralamada görünebilir. Giriş yapmazsan hiçbir şey gönderilmez ve oyun normal oynanır. Bu verileri Google Play Games ayarlarından yönetebilir ya da silebilirsin; Google'ın gizlilik politikasına tabidir: https://policies.google.com/privacy
 
 ## Bildirimler
 Bildirimler telefonunda yerel olarak zamanlanır; bir sunucu kullanılmaz. Ayarlardan kapatabilirsin.
@@ -48,7 +48,7 @@ Only optional rewarded ads, which you choose to watch, are served by Google AdMo
 Purchases are processed by Google Play (or the App Store); your payment details never reach us. The app only asks the store which products you own (e.g. the ad-free pack) to unlock them.
 
 ## Google Play Games
-If you take part in the leaderboard, your score and Play Games player name are sent to Google and may be visible to other players. This is covered by Google's privacy policy.
+Google Play Games is used for the global leaderboard and achievements. If you are signed in to Play Games on your phone, the game connects automatically at launch and sends your leaderboard score and unlocked achievements to Google. Your score may appear on the leaderboard with your Play Games profile name and avatar. If you are not signed in, nothing is sent and the game plays normally. You can manage or delete this data in the Google Play Games settings; it is covered by Google's privacy policy: https://policies.google.com/privacy
 
 ## Notifications
 Notifications are scheduled locally on your phone; no server is involved. You can turn them off in Settings.
