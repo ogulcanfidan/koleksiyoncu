@@ -22,8 +22,7 @@ const ACH = [
   ["bareEye", 25, "👁️", true], ["fooled", 5, "🤡", true],
 ];
 // Play Console'daki dil kodları
-const LOCALES = { tr: "tr-TR", es: "es-ES", fr: "fr-FR", pt: "pt-BR", zh: "zh-CN", ar: "ar", hi: "hi-IN", ru: "ru-RU", de: "de-DE", ja: "ja-JP", ko: "ko-KR", it: "it-IT", id: "id" };
-const ES_LATAM = "es-419";
+const LOCALES = { tr: "tr-TR", es: "es-419", fr: "fr-FR", pt: "pt-BR", zh: "zh-CN", ar: "ar", hi: "hi-IN", ru: "ru-RU", de: "de-DE", ja: "ja-JP", ko: "ko-KR", it: "it-IT", id: "id" };
 
 const load = l => JSON.parse(fs.readFileSync(path.join(root, "src", "locales", `${l}.json`), "utf8"));
 // Play Games metni: para emojisi yok, sayılarda binlik virgülü yok, cümle içi virgül yerine tire.
@@ -55,7 +54,6 @@ for (const [lang, code] of Object.entries(LOCALES)) {
   for (const [id] of ACH) {
     const row = [nameOf(id), clean(d[`ach.${id}.title`], lang), clean(d[`ach.${id}.desc`], lang)];
     loc.push([...row, code].join(","));
-    if (lang === "es") loc.push([...row, ES_LATAM].join(","));
   }
 }
 
