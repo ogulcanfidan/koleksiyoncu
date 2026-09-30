@@ -12,6 +12,12 @@ export const LANGS = [
   { code: "fr", name: "Français" },
   { code: "bn", name: "বাংলা" },
   { code: "pt", name: "Português" },
+  { code: "ru", name: "Русский" },
+  { code: "de", name: "Deutsch" },
+  { code: "ja", name: "日本語" },
+  { code: "ko", name: "한국어" },
+  { code: "it", name: "Italiano" },
+  { code: "id", name: "Bahasa Indonesia" },
 ] as const;
 
 export type Lang = (typeof LANGS)[number]["code"];

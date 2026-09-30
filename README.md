@@ -16,7 +16,7 @@ satıyor ya da vitrine koyuyorsun. Uzun vadeli hedef, dedenin hayali olan
 - Beş rütbe, günlük görevler, 22 başarım
 - Google Play Games sıralaması ve başarımları
 - Günlük anahtar sistemi; ödüllü reklam ya da tek seferlik satın almayla artırılabilir
-- Sakin müzik ve ses efektleri, 9 dilde arayüz
+- Sakin müzik ve ses efektleri, 15 dilde arayüz
 
 React + TypeScript ile yazılmış, Android için Capacitor ile paketlenmiş bir oyun.
 

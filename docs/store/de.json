@@ -1,0 +1,12 @@
+{
+  "locale": "de-DE",
+  "title": "Der Sammler: Echt oder falsch?",
+  "short": "Antik-Detektiv im Pfandhaus: Fälschungen entlarven, feilschen, Sammlung füllen!",
+  "full": "Der alte Antiquitätenladen deines Großvaters gehört jetzt dir. In einer Schublade liegt ein in Leder gebundenes Notizbuch, und auf der ersten Seite steht sein unerfüllter Traum: je ein echtes Werk von achtzehn großen Meistern in einer einzigen Vitrine zu versammeln.\n\nDoch der Markt ist voller Fälschungen.\n\n🔍 GENAU HINSEHEN\nKunden bringen Taschenuhren, Münzen und Gemälde. Dreh jedes Stück um: Prüfe Zifferblatt, Gehäuseboden und Uhrwerk. Fahre mit dem Finger die Lupe darüber – winzige Details wie Seriennummern, Punzen und Jahreszahlen verraten die Wahrheit.\n\n📖 DER KATALOG IST DEIN REGELBUCH\nWelcher Meister hat in welchen Jahren gearbeitet? Welche Punze hat er benutzt? Welches Pigment gab es damals noch gar nicht? Lies den Katalog, und du erwischst den Fälscher.\n\n🧰 RÜSTE DICH AUS\nWaage, Messschieber, Prüfstein, UV-Lampe und Pigmenttest. Jedes Werkzeug entlarvt eine neue Art von Fälschung – aber jedes kostet Ladenzeit. Um 18 Uhr geht der Rollladen runter.\n\n🤝 FEILSCHEN\nGierige, verzweifelte oder ahnungslose Verkäufer … Mach das richtige Angebot und sichere dir einen echten Schatz für einen Apfel und ein Ei.\n\n🏛️ BAU DEINE SAMMLUNG AUF\nVerkaufe echte Stücke auf der Auktion oder stell sie in deine Vitrine, wo sie jeden Tag Besuchereinnahmen bringen. Versammle alle achtzehn und erfülle den Traum deines Großvaters.\n\n⭐ IMMER EIN NEUES ZIEL\n• Fünf Ränge vom Lehrling bis zur Gutachter-Legende, mit neuen Meistern auf jedem Rang\n• Täglich frische Aufgaben\n• Über 20 Erfolge\n• Kurze Runden: Ein Ladentag dauert 8–10 Minuten\n\nJedes Stück entsteht nach echten Regeln, und jede Fälschung lässt sich mit deinen Werkzeugen entlarven. Verlass dich auf dein Auge, nicht aufs Glück.\n\nRuhige Musik, eine warme Atmosphäre und jeden Tag neue Kunden. Läuft auch offline.",
+  "products": {
+    "collector_ad_free": { "name": "Sammler ohne Werbung", "desc": "Entfernt die Werbung und schenkt dir jeden Tag 3 Extraschlüssel." },
+    "keys_5": { "name": "5 Schlüssel", "desc": "5 Schlüssel, um den Laden an 5 weiteren Tagen zu öffnen." },
+    "keys_15": { "name": "15 Schlüssel", "desc": "15 Schlüssel, um den Laden an 15 weiteren Tagen zu öffnen." }
+  },
+  "notes": "• Jetzt in weiteren Sprachen verfügbar.\n• Kleinere Fehlerbehebungen."
+}

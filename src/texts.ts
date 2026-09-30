@@ -1,5 +1,5 @@
 // Dil dosyalarını yükler ve oyun verisinden metin üretir.
-import { registerDicts, t, formatMoney, type Dict, type Lang } from "@shared/src/i18n";
+import { registerDicts, t, formatMoney, getLang, type Dict, type Lang } from "@shared/src/i18n";
 import { PIGMENTS, RULES, artistById, makerById, rulerById } from "./game/catalog";
 import type { Customer, Item, TellId } from "./game/types";
 import type { CoinLabels } from "./components/ItemArt";
@@ -13,7 +13,9 @@ registerDicts(all);
 
 export function rulerLabel(id: string) {
   const r = rulerById(id);
-  return `${t(`title.${r.title}`)} ${r.name}`;
+  const title = t(`title.${r.title}`);
+  // Japonca ve Korecede unvan addan sonra gelir: "Aldric 国王"
+  return getLang() === "ja" || getLang() === "ko" ? `${r.name} ${title}` : `${title} ${r.name}`;
 }
 
 export function coinLabels(item: Item): CoinLabels | undefined {

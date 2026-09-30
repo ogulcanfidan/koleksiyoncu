@@ -1,0 +1,12 @@
+{
+  "locale": "it-IT",
+  "title": "Il Collezionista: Vero o falso",
+  "short": "Banco dei pegni e antiquariato: scova i falsi, tratta, completa la collezione!",
+  "full": "La vecchia bottega di antiquariato di tuo nonno ora è tua. In un cassetto c'è un taccuino rilegato in pelle e, sulla prima pagina, il suo sogno rimasto incompiuto: riunire in un'unica vetrina un'opera autentica di diciotto grandi maestri.\n\nMa il mercato è pieno di falsi.\n\n🔍 ESAMINA DAVVERO\nI clienti portano orologi da tasca, monete e dipinti. Gira ogni oggetto: controlla il quadrante, il fondello, il movimento. Fai scorrere la lente con il dito: piccoli dettagli come numeri di serie, punzoni e date svelano la verità.\n\n📖 IL CATALOGO È IL TUO MANUALE\nIn quali anni ha lavorato ogni maestro? Che punzone usava? Quale pigmento non esisteva ancora? Studia il catalogo e smaschererai il falsario.\n\n🧰 COMPLETA LA TUA ATTREZZATURA\nBilancia, calibro, pietra di paragone, lampada UV e test dei pigmenti. Ogni strumento svela un nuovo tipo di falso, ma ognuno consuma tempo di apertura. Alle 18:00 si abbassa la saracinesca.\n\n🤝 TRATTA SUL PREZZO\nVenditori avidi, disperati o ignari di ciò che hanno in mano… Fai l'offerta giusta e porta a casa un vero tesoro per due soldi.\n\n🏛️ COSTRUISCI LA TUA COLLEZIONE\nVendi i pezzi autentici all'asta oppure tienili in vetrina, dove ogni giorno ti fruttano gli incassi dei visitatori. Riuniscili tutti e diciotto e realizza il sogno di tuo nonno.\n\n⭐ SEMPRE UN NUOVO TRAGUARDO\n• Cinque gradi, da Apprendista a Perito leggendario, con nuovi maestri a ogni grado\n• Missioni giornaliere sempre nuove\n• Più di 20 obiettivi\n• Partite brevi: una giornata in bottega dura 8–10 minuti\n\nOgni oggetto è generato a partire da regole reali e ogni falso si può scoprire con gli strumenti che possiedi. Fidati del tuo occhio, non della fortuna.\n\nMusica rilassante, un'atmosfera accogliente e nuovi clienti ogni giorno. Si gioca anche offline.",
+  "products": {
+    "collector_ad_free": { "name": "Collezionista senza pubblicità", "desc": "Rimuove la pubblicità e regala 3 chiavi extra ogni giorno." },
+    "keys_5": { "name": "5 chiavi", "desc": "5 chiavi per aprire la bottega per altri 5 giorni." },
+    "keys_15": { "name": "15 chiavi", "desc": "15 chiavi per aprire la bottega per altri 15 giorni." }
+  },
+  "notes": "• Ora disponibile in più lingue.\n• Piccole correzioni."
+}

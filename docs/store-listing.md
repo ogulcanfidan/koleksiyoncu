@@ -354,3 +354,237 @@ Música tranquila, clima aconchegante e novos clientes todo dia. Também dá par
 প্রতিটি জিনিস তৈরি হয় বাস্তব নিয়ম মেনে, আর প্রতিটি নকলই আপনার হাতের যন্ত্র দিয়ে ধরা যায়। আসল না নকল? ভাগ্যে নয়, নিজের গোয়েন্দা-চোখে ভরসা রাখুন।
 
 শান্ত সংগীত, উষ্ণ পরিবেশ আর প্রতিদিন নতুন খদ্দের। অফলাইনেও খেলা যায়।
+
+---
+
+## ru — Русский
+
+**Title:** Коллекционер: лавка антиквара (29)
+
+**Short description:** Детектив в антикварной лавке: вычисляй подделки, торгуйся, собери коллекцию! (76)
+
+**Full description:**
+
+Старая антикварная лавка дедушки теперь твоя. В ящике стола лежит тетрадь в кожаном переплёте, а на первой странице — его несбывшаяся мечта: собрать в одной витрине по подлиннику восемнадцати великих мастеров.
+
+Но рынок наводнён подделками.
+
+🔍 РАССМОТРИ КАК СЛЕДУЕТ
+Клиенты приносят карманные часы, монеты и картины. Осмотри каждую вещь со всех сторон: циферблат, заднюю крышку, механизм. Води лупой пальцем по экрану — правду выдают мелочи: серийные номера, клейма и даты.
+
+📖 КАТАЛОГ — ТВОЙ СВОД ПРАВИЛ
+Какой мастер в какие годы работал? Каким клеймом пользовался? Какого пигмента тогда ещё не существовало? Читай каталог — и выведешь фальсификатора на чистую воду.
+
+🧰 СОБЕРИ НАБОР ИНСТРУМЕНТОВ
+Весы, штангенциркуль, пробирный камень, УФ-лампа и анализ пигментов. Каждый инструмент разоблачает новый вид подделок, но и отнимает рабочее время. В 18:00 ставни опускаются.
+
+🤝 ТОРГУЙСЯ
+Жадные, отчаявшиеся или ничего не подозревающие продавцы… Назови верную цену — и настоящее сокровище достанется тебе за гроши.
+
+🏛️ СОБЕРИ КОЛЛЕКЦИЮ
+Продавай подлинники на аукционе или оставляй в витрине, где они каждый день приносят доход от посетителей. Собери все восемнадцать и исполни дедушкину мечту.
+
+⭐ ВСЕГДА ЕСТЬ К ЧЕМУ СТРЕМИТЬСЯ
+• Пять рангов, от ученика до легендарного эксперта, и новые мастера на каждом ранге
+• Свежие задания каждый день
+• Больше 20 достижений
+• Короткие сессии: день в лавке занимает 8–10 минут
+
+Каждая вещь создаётся по настоящим правилам, и любую подделку можно вычислить теми инструментами, что у тебя есть. Доверяй глазу, а не удаче.
+
+Спокойная музыка, уютная атмосфера и новые клиенты каждый день. Работает и без интернета.
+
+---
+
+## de — Deutsch
+
+**Title:** Der Sammler: Echt oder falsch? (30)
+
+**Short description:** Antik-Detektiv im Pfandhaus: Fälschungen entlarven, feilschen, Sammlung füllen! (79)
+
+**Full description:**
+
+Der alte Antiquitätenladen deines Großvaters gehört jetzt dir. In einer Schublade liegt ein in Leder gebundenes Notizbuch, und auf der ersten Seite steht sein unerfüllter Traum: je ein echtes Werk von achtzehn großen Meistern in einer einzigen Vitrine zu versammeln.
+
+Doch der Markt ist voller Fälschungen.
+
+🔍 GENAU HINSEHEN
+Kunden bringen Taschenuhren, Münzen und Gemälde. Dreh jedes Stück um: Prüfe Zifferblatt, Gehäuseboden und Uhrwerk. Fahre mit dem Finger die Lupe darüber – winzige Details wie Seriennummern, Punzen und Jahreszahlen verraten die Wahrheit.
+
+📖 DER KATALOG IST DEIN REGELBUCH
+Welcher Meister hat in welchen Jahren gearbeitet? Welche Punze hat er benutzt? Welches Pigment gab es damals noch gar nicht? Lies den Katalog, und du erwischst den Fälscher.
+
+🧰 RÜSTE DICH AUS
+Waage, Messschieber, Prüfstein, UV-Lampe und Pigmenttest. Jedes Werkzeug entlarvt eine neue Art von Fälschung – aber jedes kostet Ladenzeit. Um 18 Uhr geht der Rollladen runter.
+
+🤝 FEILSCHEN
+Gierige, verzweifelte oder ahnungslose Verkäufer … Mach das richtige Angebot und sichere dir einen echten Schatz für einen Apfel und ein Ei.
+
+🏛️ BAU DEINE SAMMLUNG AUF
+Verkaufe echte Stücke auf der Auktion oder stell sie in deine Vitrine, wo sie jeden Tag Besuchereinnahmen bringen. Versammle alle achtzehn und erfülle den Traum deines Großvaters.
+
+⭐ IMMER EIN NEUES ZIEL
+• Fünf Ränge vom Lehrling bis zur Gutachter-Legende, mit neuen Meistern auf jedem Rang
+• Täglich frische Aufgaben
+• Über 20 Erfolge
+• Kurze Runden: Ein Ladentag dauert 8–10 Minuten
+
+Jedes Stück entsteht nach echten Regeln, und jede Fälschung lässt sich mit deinen Werkzeugen entlarven. Verlass dich auf dein Auge, nicht aufs Glück.
+
+Ruhige Musik, eine warme Atmosphäre und jeden Tag neue Kunden. Läuft auch offline.
+
+---
+
+## ja — 日本語
+
+**Title:** コレクター：本物か偽物か？骨董店の鑑定ゲーム (22)
+
+**Short description:** 質屋＆骨董店の鑑定推理ゲーム。偽物を見破り、値切って、コレクションを完成させよう！ (41)
+
+**Full description:**
+
+祖父の古い骨董店は、いまやあなたのもの。引き出しには革表紙の手帳があり、最初のページには叶わなかった祖父の夢が記されています。18人の巨匠の本物を1点ずつ、ひとつのショーケースに集めること。
+
+けれど、市場は偽物だらけです。
+
+🔍 じっくり鑑定
+お客さんが懐中時計、コイン、絵画を持ち込みます。品物をひっくり返して、文字盤、裏蓋、ムーブメントを確かめましょう。指でルーペを動かせば、シリアル番号、刻印、年号といった小さな手がかりが真実を教えてくれます。
+
+📖 カタログがあなたのルールブック
+どの職人が、いつ活動していたのか？どんな刻印を使っていたのか？その時代にまだ存在しなかった顔料は？カタログを読み込めば、贋作者のしっぽをつかめます。
+
+🧰 道具をそろえよう
+はかり、ノギス、試金石、UVランプ、顔料分析。道具が増えるたびに新しい種類の偽物を見破れますが、使うたびに営業時間が減っていきます。18時になるとシャッターが下ります。
+
+🤝 値段交渉
+欲張りな人、困っている人、価値を知らない人…。うまく値段を提示して、本物のお宝を格安で手に入れましょう。
+
+🏛️ コレクションを築こう
+本物はオークションで売るか、ショーケースに飾るか。飾った作品は毎日、入場料収入を生み出します。18点すべてを集めて、祖父の夢を叶えましょう。
+
+⭐ いつでも目標がある
+• 「見習い」から「伝説の鑑定士」まで5つのランク。ランクが上がるたびに新しい作り手が登場
+• 毎日変わるデイリーミッション
+• 20種類以上の実績
+• 短時間で遊べる：お店の1日は8～10分
+
+すべての品物は実際のルールに基づいて生成され、どの偽物も手持ちの道具で必ず見破れます。頼るのは運ではなく、あなたの目です。
+
+落ち着いた音楽、あたたかな雰囲気、そして毎日やってくる新しいお客さん。オフラインでも遊べます。
+
+---
+
+## ko — 한국어
+
+**Title:** 수집가: 진품일까 가품일까? 골동품 감정 게임 (25)
+
+**Short description:** 전당포·골동품 가게의 감정사가 되어 가품을 가려내고, 흥정하고, 컬렉션을 완성하세요! (47)
+
+**Full description:**
+
+할아버지의 오래된 골동품 가게가 이제 내 것이 됐어요. 서랍 속에는 가죽 장정 공책이 한 권 있고, 첫 장에는 할아버지가 끝내 이루지 못한 꿈이 적혀 있어요. 위대한 거장 열여덟 명의 진품을 하나씩, 한 진열장에 모으는 것.
+
+하지만 시장에는 가품이 넘쳐 나요.
+
+🔍 꼼꼼하게 살펴보세요
+손님들이 회중시계, 주화, 그림을 들고 찾아와요. 물건을 이리저리 돌려 보세요. 문자판, 뒷뚜껑, 무브먼트까지요. 손가락으로 돋보기를 움직이면 일련번호, 각인, 연도 같은 작은 단서가 진실을 알려 줘요.
+
+📖 도감은 나만의 규칙집
+어느 장인이 어느 시기에 활동했을까요? 어떤 각인을 썼을까요? 그때는 아직 없던 안료는 무엇일까요? 도감을 읽으면 위조범을 잡아낼 수 있어요.
+
+🧰 도구를 갖추세요
+저울, 캘리퍼스, 시금석, UV 램프, 안료 검사. 도구마다 새로운 위조 수법을 밝혀내지만, 쓸 때마다 영업시간이 줄어요. 오후 6시가 되면 셔터를 내려요.
+
+🤝 흥정하세요
+욕심 많은 손님, 사정이 급한 손님, 자기가 뭘 파는지 모르는 손님… 알맞은 값을 불러 진짜 보물을 헐값에 손에 넣으세요.
+
+🏛️ 컬렉션을 만들어 가세요
+진품은 경매에서 팔거나 진열장에 보관할 수 있어요. 진열장의 작품은 매일 관람 수입을 벌어 줘요. 열여덟 점을 모두 모아 할아버지의 꿈을 이뤄 주세요.
+
+⭐ 언제나 새로운 목표
+• 견습생부터 전설의 감정사까지 다섯 등급, 등급마다 새로운 거장 등장
+• 매일 바뀌는 일일 퀘스트
+• 20개가 넘는 업적
+• 짧은 플레이: 영업일 하루는 8–10분
+
+모든 물건은 실제 규칙에 따라 만들어지고, 모든 가품은 가지고 있는 도구로 잡아낼 수 있어요. 운이 아니라 내 눈을 믿으세요.
+
+잔잔한 음악, 따뜻한 분위기, 그리고 매일 찾아오는 새로운 손님들. 오프라인에서도 즐길 수 있어요.
+
+---
+
+## it — Italiano
+
+**Title:** Il Collezionista: Vero o falso (30)
+
+**Short description:** Banco dei pegni e antiquariato: scova i falsi, tratta, completa la collezione! (78)
+
+**Full description:**
+
+La vecchia bottega di antiquariato di tuo nonno ora è tua. In un cassetto c'è un taccuino rilegato in pelle e, sulla prima pagina, il suo sogno rimasto incompiuto: riunire in un'unica vetrina un'opera autentica di diciotto grandi maestri.
+
+Ma il mercato è pieno di falsi.
+
+🔍 ESAMINA DAVVERO
+I clienti portano orologi da tasca, monete e dipinti. Gira ogni oggetto: controlla il quadrante, il fondello, il movimento. Fai scorrere la lente con il dito: piccoli dettagli come numeri di serie, punzoni e date svelano la verità.
+
+📖 IL CATALOGO È IL TUO MANUALE
+In quali anni ha lavorato ogni maestro? Che punzone usava? Quale pigmento non esisteva ancora? Studia il catalogo e smaschererai il falsario.
+
+🧰 COMPLETA LA TUA ATTREZZATURA
+Bilancia, calibro, pietra di paragone, lampada UV e test dei pigmenti. Ogni strumento svela un nuovo tipo di falso, ma ognuno consuma tempo di apertura. Alle 18:00 si abbassa la saracinesca.
+
+🤝 TRATTA SUL PREZZO
+Venditori avidi, disperati o ignari di ciò che hanno in mano… Fai l'offerta giusta e porta a casa un vero tesoro per due soldi.
+
+🏛️ COSTRUISCI LA TUA COLLEZIONE
+Vendi i pezzi autentici all'asta oppure tienili in vetrina, dove ogni giorno ti fruttano gli incassi dei visitatori. Riuniscili tutti e diciotto e realizza il sogno di tuo nonno.
+
+⭐ SEMPRE UN NUOVO TRAGUARDO
+• Cinque gradi, da Apprendista a Perito leggendario, con nuovi maestri a ogni grado
+• Missioni giornaliere sempre nuove
+• Più di 20 obiettivi
+• Partite brevi: una giornata in bottega dura 8–10 minuti
+
+Ogni oggetto è generato a partire da regole reali e ogni falso si può scoprire con gli strumenti che possiedi. Fidati del tuo occhio, non della fortuna.
+
+Musica rilassante, un'atmosfera accogliente e nuovi clienti ogni giorno. Si gioca anche offline.
+
+---
+
+## id — Bahasa Indonesia
+
+**Title:** Sang Kolektor: Asli atau Palsu (30)
+
+**Short description:** Detektif toko antik: kenali yang palsu, tawar harga, lengkapi koleksimu! (72)
+
+**Full description:**
+
+Toko antik tua milik kakekmu kini menjadi milikmu. Di dalam laci ada sebuah buku catatan bersampul kulit, dan di halaman pertamanya tertulis impian Kakek yang belum terwujud: mengumpulkan satu karya asli dari delapan belas maestro besar dalam satu etalase.
+
+Tapi pasar penuh barang palsu.
+
+🔍 PERIKSA SUNGGUH-SUNGGUH
+Pelanggan membawa arloji saku, koin, dan lukisan. Bolak-balik setiap barang: periksa muka jam, tutup belakang, dan mesinnya. Geser kaca pembesar dengan jarimu — detail kecil seperti nomor seri, cap, dan tahun akan membongkar kebenarannya.
+
+📖 KATALOG ADALAH BUKU ATURANMU
+Pembuat mana yang berkarya pada tahun berapa? Cap apa yang dipakainya? Pigmen mana yang waktu itu belum ada? Baca katalognya, dan si pemalsu pasti tertangkap.
+
+🧰 LENGKAPI PERALATANMU
+Timbangan, jangka sorong, batu uji, lampu UV, dan uji pigmen. Tiap alat membongkar jenis pemalsuan yang baru — tetapi semuanya memakan jam buka toko. Pukul 18.00 toko tutup.
+
+🤝 TAWAR-MENAWAR
+Penjual yang serakah, yang terdesak, atau yang tak tahu apa-apa… Ajukan tawaran yang pas dan bawa pulang harta karun sungguhan dengan harga receh.
+
+🏛️ BANGUN KOLEKSIMU
+Jual barang asli di lelang atau simpan di etalasemu, tempat barang itu mendatangkan pendapatan dari pengunjung setiap hari. Kumpulkan kedelapan belas karya dan wujudkan impian Kakek.
+
+⭐ SELALU ADA YANG DIKEJAR
+• Lima peringkat dari Magang hingga Penaksir Legendaris, dengan nama-nama baru di setiap peringkat
+• Tugas harian yang selalu baru
+• 20+ pencapaian
+• Sesi singkat: satu hari toko hanya 8–10 menit
+
+Setiap barang dibuat berdasarkan aturan yang nyata, dan setiap barang palsu bisa ditangkap dengan alat yang kamu punya. Andalkan matamu, bukan keberuntungan.
+
+Musik yang tenang, suasana yang hangat, dan pelanggan baru setiap hari. Bisa dimainkan offline juga.

@@ -22,7 +22,7 @@ const ACH = [
   ["bareEye", 25, "👁️", true], ["fooled", 5, "🤡", true],
 ];
 // Play Console'daki dil kodları
-const LOCALES = { tr: "tr-TR", es: "es-ES", fr: "fr-FR", pt: "pt-BR", zh: "zh-CN", ar: "ar", hi: "hi-IN", bn: "bn-BD" };
+const LOCALES = { tr: "tr-TR", es: "es-ES", fr: "fr-FR", pt: "pt-BR", zh: "zh-CN", ar: "ar", hi: "hi-IN", bn: "bn-BD", ru: "ru-RU", de: "de-DE", ja: "ja-JP", ko: "ko-KR", it: "it-IT", id: "id" };
 const ES_LATAM = "es-419";
 
 const load = l => JSON.parse(fs.readFileSync(path.join(root, "src", "locales", `${l}.json`), "utf8"));

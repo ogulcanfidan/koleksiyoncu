@@ -3,7 +3,7 @@
 import { readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
-const LANGS = ["tr", "en", "zh", "hi", "es", "ar", "fr", "bn", "pt"];
+const LANGS = ["tr", "en", "zh", "hi", "es", "ar", "fr", "bn", "pt", "ru", "de", "ja", "ko", "it", "id"];
 const dirs = process.argv.slice(2);
 if (!dirs.length) { console.error("Klasör verin."); process.exit(2); }
 
