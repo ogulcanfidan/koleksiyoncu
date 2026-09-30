@@ -3,7 +3,7 @@
 import type { Lang } from "./i18n";
 
 // Gizlilik politikasında ve mağazada herkese açık görünen iletişim adresi.
-const CONTACT = "ogulcanfidannn@gmail.com";
+const CONTACT = "contact@fmjapps.com";
 const UPDATED = "30.09.2026";
 
 export function privacyText(app: string, lang: Lang): string {

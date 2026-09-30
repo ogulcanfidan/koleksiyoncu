@@ -40,4 +40,4 @@ gerekir; ikisi de depoya girmez.
 
 ## Gizlilik politikası
 
-https://fmjapps.github.io/privacy/collector/
+https://fmjapps.com/privacy/collector/

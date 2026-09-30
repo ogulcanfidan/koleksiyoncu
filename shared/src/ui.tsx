@@ -350,7 +350,7 @@ export function SettingsScreen({ appName, version, onBack, onOpenPrivacy, onOpen
         <button className="list-row link danger" onClick={() => setConfirmReset(true)}><span>🗑 {t("ui.resetProgress")}</span><b>›</b></button>
       </section>
 
-      <p className="muted small center">{appName} · {t("ui.version")} {version}<br />{t("ui.madeWith")}</p>
+      <p className="muted small center">{appName} · {t("ui.version")} {version}</p>
 
       <Sheet open={confirmReset} onClose={() => setConfirmReset(false)} title={t("ui.resetConfirmTitle")}>
         <p>{t("ui.resetConfirmBody")}</p>
