@@ -33,7 +33,7 @@ const PGS_PROJECT_ID = "713398800109";
 
 // 2) Yerelleştirilmiş uygulama adı
 const esc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/'/g, "\\'").replace(/"/g, '\\"');
-const langs = { tr: "values", en: "values-en", es: "values-es", fr: "values-fr", pt: "values-pt", zh: "values-zh", ar: "values-ar", hi: "values-hi", bn: "values-bn", ru: "values-ru", de: "values-de", ja: "values-ja", ko: "values-ko", it: "values-it", id: "values-in" };
+const langs = { tr: "values", en: "values-en", es: "values-es", fr: "values-fr", pt: "values-pt", zh: "values-zh", ar: "values-ar", hi: "values-hi", ru: "values-ru", de: "values-de", ja: "values-ja", ko: "values-ko", it: "values-it", id: "values-in" };
 for (const [lang, folder] of Object.entries(langs)) {
   const dict = JSON.parse(fs.readFileSync(path.join(root, "src", "locales", `${lang}.json`), "utf8"));
   const title = esc(dict["app.title"]);

@@ -10,7 +10,6 @@ export const LANGS = [
   { code: "es", name: "Español" },
   { code: "ar", name: "العربية", rtl: true },
   { code: "fr", name: "Français" },
-  { code: "bn", name: "বাংলা" },
   { code: "pt", name: "Português" },
   { code: "ru", name: "Русский" },
   { code: "de", name: "Deutsch" },
@@ -37,7 +36,8 @@ function detect(): Lang {
   }
   return FALLBACK;
 }
-function resolve(p: Lang | "auto"): Lang { return p === "auto" ? detect() : p; }
+// Kayıtlı tercih artık desteklenmeyen bir dilse cihaz diline dönülür.
+function resolve(p: Lang | "auto"): Lang { return p !== "auto" && LANGS.some(l => l.code === p) ? p : detect(); }
 
 /** Paylaşılan ve oyuna özel sözlükleri birleştirerek ekler. */
 export function registerDicts(all: Partial<Record<Lang, Dict>>) {

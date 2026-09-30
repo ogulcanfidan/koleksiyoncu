@@ -1,7 +1,7 @@
 // Play Oyun Hizmetleri için başarım içe aktarma paketi üretir: release/pgs-achievements.zip
 // İçerik: AchievementsMetadata.csv, AchievementsLocalizations.csv, AchievementsIconsMappings.csv ve 512x512 simgeler.
 // Kurallar: başlık satırı yok, ad/açıklamada virgül yok, puanlar 5'in katı ve 5–200 arası.
-// Varsayılan dil İngilizce (Play Games projesinin varsayılanı en-US), diğer 8 dil çeviri olarak eklenir.
+// Varsayılan dil İngilizce (Play Games projesinin varsayılanı en-US), diğer diller çeviri olarak eklenir.
 // Simgeler Chrome'un başsız modu ile çizilir (renkli emoji için).
 const fs = require("fs");
 const path = require("path");
@@ -22,7 +22,7 @@ const ACH = [
   ["bareEye", 25, "👁️", true], ["fooled", 5, "🤡", true],
 ];
 // Play Console'daki dil kodları
-const LOCALES = { tr: "tr-TR", es: "es-ES", fr: "fr-FR", pt: "pt-BR", zh: "zh-CN", ar: "ar", hi: "hi-IN", bn: "bn-BD", ru: "ru-RU", de: "de-DE", ja: "ja-JP", ko: "ko-KR", it: "it-IT", id: "id" };
+const LOCALES = { tr: "tr-TR", es: "es-ES", fr: "fr-FR", pt: "pt-BR", zh: "zh-CN", ar: "ar", hi: "hi-IN", ru: "ru-RU", de: "de-DE", ja: "ja-JP", ko: "ko-KR", it: "it-IT", id: "id" };
 const ES_LATAM = "es-419";
 
 const load = l => JSON.parse(fs.readFileSync(path.join(root, "src", "locales", `${l}.json`), "utf8"));
