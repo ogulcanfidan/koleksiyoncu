@@ -1,0 +1,170 @@
+{
+  "es-419": {
+    "collector_ad_free": {
+      "name": "Coleccionista sin anuncios",
+      "desc": "Elimina los anuncios y da 3 llaves extra cada día."
+    },
+    "keys_5": {
+      "name": "5 llaves",
+      "desc": "5 llaves para abrir la tienda 5 días más."
+    },
+    "keys_15": {
+      "name": "15 llaves",
+      "desc": "15 llaves para abrir la tienda 15 días más."
+    }
+  },
+  "fr-FR": {
+    "collector_ad_free": {
+      "name": "Collectionneur sans pub",
+      "desc": "Supprime les pubs et offre 3 clés supplémentaires chaque jour."
+    },
+    "keys_5": {
+      "name": "5 clés",
+      "desc": "5 clés pour ouvrir la boutique 5 jours de plus."
+    },
+    "keys_15": {
+      "name": "15 clés",
+      "desc": "15 clés pour ouvrir la boutique 15 jours de plus."
+    }
+  },
+  "pt-BR": {
+    "collector_ad_free": {
+      "name": "Colecionador sem anúncios",
+      "desc": "Remove os anúncios e dá 3 chaves extras todos os dias."
+    },
+    "keys_5": {
+      "name": "5 chaves",
+      "desc": "5 chaves para abrir a loja por mais 5 dias."
+    },
+    "keys_15": {
+      "name": "15 chaves",
+      "desc": "15 chaves para abrir a loja por mais 15 dias."
+    }
+  },
+  "hi-IN": {
+    "collector_ad_free": {
+      "name": "विज्ञापन-रहित संग्राहक",
+      "desc": "विज्ञापन हटाता है और हर दिन 3 अतिरिक्त चाबियाँ देता है।"
+    },
+    "keys_5": {
+      "name": "5 चाबियाँ",
+      "desc": "दुकान को 5 और दिन खोलने के लिए 5 चाबियाँ।"
+    },
+    "keys_15": {
+      "name": "15 चाबियाँ",
+      "desc": "दुकान को 15 और दिन खोलने के लिए 15 चाबियाँ।"
+    }
+  },
+  "ar": {
+    "collector_ad_free": {
+      "name": "مُقتنٍ بلا إعلانات",
+      "desc": "يزيل الإعلانات ويمنحك 3 مفاتيح إضافية كل يوم."
+    },
+    "keys_5": {
+      "name": "5 مفاتيح",
+      "desc": "5 مفاتيح لفتح المتجر 5 أيام إضافية."
+    },
+    "keys_15": {
+      "name": "15 مفتاحًا",
+      "desc": "15 مفتاحًا لفتح المتجر 15 يومًا إضافيًا."
+    }
+  },
+  "zh-CN": {
+    "collector_ad_free": {
+      "name": "无广告收藏家",
+      "desc": "移除广告，每天额外获得 3 把钥匙。"
+    },
+    "keys_5": {
+      "name": "5 把钥匙",
+      "desc": "5 把钥匙，可让店铺多营业 5 天。"
+    },
+    "keys_15": {
+      "name": "15 把钥匙",
+      "desc": "15 把钥匙，可让店铺多营业 15 天。"
+    }
+  },
+  "de-DE": {
+    "collector_ad_free": {
+      "name": "Sammler ohne Werbung",
+      "desc": "Entfernt die Werbung und schenkt dir jeden Tag 3 Extraschlüssel."
+    },
+    "keys_5": {
+      "name": "5 Schlüssel",
+      "desc": "5 Schlüssel, um den Laden an 5 weiteren Tagen zu öffnen."
+    },
+    "keys_15": {
+      "name": "15 Schlüssel",
+      "desc": "15 Schlüssel, um den Laden an 15 weiteren Tagen zu öffnen."
+    }
+  },
+  "ru-RU": {
+    "collector_ad_free": {
+      "name": "Коллекционер без рекламы",
+      "desc": "Убирает рекламу и даёт 3 дополнительных ключа каждый день."
+    },
+    "keys_5": {
+      "name": "5 ключей",
+      "desc": "5 ключей, чтобы открыть лавку ещё на 5 дней."
+    },
+    "keys_15": {
+      "name": "15 ключей",
+      "desc": "15 ключей, чтобы открыть лавку ещё на 15 дней."
+    }
+  },
+  "ja-JP": {
+    "collector_ad_free": {
+      "name": "広告なしコレクター",
+      "desc": "広告を非表示にし、毎日鍵を3つ追加でもらえます。"
+    },
+    "keys_5": {
+      "name": "鍵5個",
+      "desc": "あと5日、店を開けられる鍵5個。"
+    },
+    "keys_15": {
+      "name": "鍵15個",
+      "desc": "あと15日、店を開けられる鍵15個。"
+    }
+  },
+  "ko-KR": {
+    "collector_ad_free": {
+      "name": "광고 없는 수집가",
+      "desc": "광고를 없애고 매일 열쇠 3개를 추가로 드려요."
+    },
+    "keys_5": {
+      "name": "열쇠 5개",
+      "desc": "가게를 5일 더 열 수 있는 열쇠 5개."
+    },
+    "keys_15": {
+      "name": "열쇠 15개",
+      "desc": "가게를 15일 더 열 수 있는 열쇠 15개."
+    }
+  },
+  "it-IT": {
+    "collector_ad_free": {
+      "name": "Collezionista senza pubblicità",
+      "desc": "Rimuove la pubblicità e regala 3 chiavi extra ogni giorno."
+    },
+    "keys_5": {
+      "name": "5 chiavi",
+      "desc": "5 chiavi per aprire la bottega per altri 5 giorni."
+    },
+    "keys_15": {
+      "name": "15 chiavi",
+      "desc": "15 chiavi per aprire la bottega per altri 15 giorni."
+    }
+  },
+  "id": {
+    "collector_ad_free": {
+      "name": "Kolektor Bebas Iklan",
+      "desc": "Menghapus iklan dan memberi 3 kunci ekstra setiap hari."
+    },
+    "keys_5": {
+      "name": "5 Kunci",
+      "desc": "5 kunci untuk membuka toko 5 hari lagi."
+    },
+    "keys_15": {
+      "name": "15 Kunci",
+      "desc": "15 kunci untuk membuka toko 15 hari lagi."
+    }
+  }
+}

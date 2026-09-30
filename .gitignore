@@ -25,3 +25,6 @@ local.properties
 # Eski deneme ve üretilmiş dosyalar
 gunun-vakasi/
 docs/privacy.html
+
+# Üretilen mağaza görselleri (node scripts/make-store-shots.mjs)
+assets/store/
